@@ -28,7 +28,7 @@ This project was inspired by an academic exercise and re-imagined as a fun, ligh
 
 #### Installation
 - Download or clone this repository:
-    git clone https://github.com/yourusername/circle-dodge-game.git
+    git clone [https://github.com/yourusername/circle-dodge-game.git](https://github.com/itskelechi/circle_dodge.git)
     cd circle-dodge-game
 
 - Open the CircleDodge.pde file in the Processing IDE.
